@@ -1,0 +1,1 @@
+A Computer Vision based AI WEB Based system that detects and counts objects using YOLOV8,DEEPSORT for increasing efficiency for video processing and STREAMLIT for user interface to upload inputs and output through dasboard 
